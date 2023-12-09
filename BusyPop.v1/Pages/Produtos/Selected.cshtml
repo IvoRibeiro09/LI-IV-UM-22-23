@@ -1,0 +1,15 @@
+﻿@page
+@model BusyPop.Pages.Produtos.SelectedModel
+@{
+}
+<br>
+<h2>Produtos desta feira</h2>
+@foreach (var item in Model.ProductList)
+{
+	<a class="button3" href='/Compra/Index?id=@item.id'>
+		<p>@item.nome </p>
+		<p><img src="@item.imagelink" width="170" height="130" alt="buttonpng" border="0" /></p>
+			<p>Preço = @item.price €/kg
+		</p>
+	</a>
+}

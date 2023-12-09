@@ -1,0 +1,16 @@
+# DNS database file for domain robalo.
+@ DEFAULT robalo.
+TTL DEFAULT 86400
+@ SOASP SP.robalo. TTL
+@ SOAADMIN dns\.admin.Sp.robalo. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS SP.robalo. TTL
+@ NS ns2.robalo. TTL
+SP A 10.0.16.11 TTL
+ns2 A 193.137.100.250 TTL
+ftp A 193.136.130.20 TTL
+sp CNAME SP TTL
+ss1 CNAME ns2 TTL

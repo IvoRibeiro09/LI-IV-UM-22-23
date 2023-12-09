@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BusyPop
+build_property.RootNamespace = BusyPop
+build_property.ProjectDir = C:\Users\HP\OneDrive - Universidade do Minho\Ambiente de Trabalho\LI 4\vsBusyPop\BusyPop\BusyPop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\OneDrive - Universidade do Minho\Ambiente de Trabalho\LI 4\vsBusyPop\BusyPop\BusyPop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feira/AdicionarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFcQWRpY2lvbmFyUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feira/DeleteProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFcRGVsZXRlUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feira/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Venda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dnbhk42952

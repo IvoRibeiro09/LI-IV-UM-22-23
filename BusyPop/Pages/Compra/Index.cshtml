@@ -1,0 +1,165 @@
+﻿@page
+@model BusyPop.Pages.Compra.IndexModel
+@{
+}
+<head>
+<style>
+	.button {
+		border: none;
+		background-color: steelblue;
+		border-radius: 10%;
+		color: white;
+		width: 600px;
+		height: 650px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 22px;
+		margin: 10px 10px;
+		transition-duration: 0.4s;
+		cursor: pointer;
+	}
+
+	.button:hover {
+		background-color: skyblue;
+		color: white;
+	}
+
+	.open-button {
+		background-color: #555;
+		color: white;
+		padding: 16px 20px;
+		border: none;
+		cursor: pointer;
+		opacity: 0.8;
+		position: fixed;
+		bottom: 23px;
+		right: 28px;
+		width: 280px;
+	}
+
+	.form-popup {
+		display: none;
+		position: fixed;
+		bottom: 0;
+		right: 15px;
+		border: 3px solid #f1f1f1;
+		z-index: 9;
+	}
+
+	.form-container {
+		max-width: 300px;
+		padding: 10px;
+		background-color: white;
+	}
+
+	.form-container input[type=text], .form-container input[type=password] {
+		width: 100%;
+		padding: 15px;
+		margin: 5px 0 22px 0;
+		border: none;
+		background: #f1f1f1;
+	}
+
+	.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+		background-color: #ddd;
+		outline: none;
+	}
+
+	.form-container .btn {
+		background-color: #04AA6D;
+		color: white;
+		padding: 16px 20px;
+		border: none;
+		cursor: pointer;
+		width: 100%;
+		margin-bottom: 10px;
+		opacity: 0.8;
+	}
+
+	.form-container .cancel {
+		background-color: red;
+	}
+
+	.form-container .btn:hover, .open-button:hover {
+		opacity: 1;
+	}
+</style>
+</head>
+
+<div class="container">
+	<div class="row">
+		<div class="col-6">
+			<a class="button" href='/' '>
+				<p><img src="@Model.info.imagelink"  width="500" height="550" alt="buttonpng" border="0" /></p>
+			</a>
+		</div>
+		<div class="col-6">
+			<h1>@Model.info.nome</h1>
+			<br><br>
+			<p><strong>Descrição:</strong></p>
+			<p>
+				@Model.info.descri
+				<br><br><br><br><br>
+			</p>
+			<p><strong>Quantidade disponivel:</strong></p>
+			<p>
+				@Model.info.quantidade unidades
+			</p>
+			<p><strong>Preço:</strong></p>
+			<p>
+				@Model.info.price €/unidade
+			</p>
+
+			<button class="btn btn-primary" onclick="openForm()">Comprar</button>
+			
+			<a class="btn btn-primary" href="/Compra/Negociar?id=@Model.info.id">Negociar</a>
+			<div class="form-popup" id="myForm">
+				<form action="/" class="form-container">
+					<h1>Comprar</h1>
+
+					<label for="psw"><b>Quantidade</b></label>
+					<input type="text" class="form-control" name="quantidade" />
+
+					<button type="submit" class="btn">Comprar</button>
+					<button type="button" class="btn cancel" onclick="closeForm()">Fechar</button>
+				</form>
+			</div>
+			<div class="form-popup" id="myForm2">
+				<form action="/" class="form-container">
+					<h1>Negociar</h1>
+
+					<label for="email"><b>Preço disposto a pagar</b></label>
+					<input type="text" class="form-control" name="preco" value="@Model.info2.price"/>
+
+					<label for="psw"><b>Quantidade</b></label>
+					<input type="text" class="form-control" name="quantidade" />
+
+					<button type="submit" class="btn">Negociar</button>
+					<button type="button" class="btn cancel" onclick="closeForm2()">Fechar</button>
+				</form>
+			</div>
+
+			<script>
+				function openForm() {
+					document.getElementById("myForm").style.display = "block";
+				}
+				function openForm2() {
+					document.getElementById("myForm2").style.display = "block";
+				}
+
+				function closeForm() {
+					document.getElementById("myForm").style.display = "none";
+				} 
+				function closeForm2() {
+					document.getElementById("myForm2").style.display = "none";
+				}
+
+			</script>
+			
+		</div>
+	</div>
+</div>
+
+
+

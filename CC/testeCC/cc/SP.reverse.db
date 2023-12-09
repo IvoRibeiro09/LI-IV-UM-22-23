@@ -1,0 +1,15 @@
+@ DEFAULT reverse.
+TTL DEFAULT 86400
+@ SOASP ns1.reverse. TTL
+@ SOAADMIN dns\.admin.reverse. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS in-addr.reverse TTL
+smaller.@ NS SP0.addr.reverse TTL
+sp.smaller A 10.0.29.10 TTL
+10.0.16.11 PTR robalo
+10.0.27.10 PTR bacalhau
+10.0.19.11 PTR arroz.robalo
+10.0.22.11 PTR batata.bacalhau

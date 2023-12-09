@@ -1,0 +1,13 @@
+﻿@page
+@model BusyPop.Pages.Feiras.ClienteIndexModel
+@{
+}
+<br>
+<h2>Feiras</h2>
+@foreach (var item in Model.FeirasList)
+{
+	<a class="button3" href='/Produtos/Selected?id=@item.id'> 
+		<br><br><br>
+		@item.nome 
+	</a>
+}

@@ -1,0 +1,28 @@
+# Base de dados Servidores de Topo
+@ DEFAULT .
+TTL DEFAULT 86400
+@ SOASP ns1.root TTL
+@ SOAADMIN dns\.admin.root TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS ns1.root TTL
+@ NS ns2.root TTL
+bacalhau. NS sp.bacalhau. TTL
+bacalhau. NS ss1.bacalhau. TTL
+bacalhau. NS ss2.bacalhau. TTL
+robalo. NS sp.robalo. TTL
+robalo. NS ss1.robalo. TTL
+robalo. NS ss2.robalo. TTL
+reverse. NS sp.reverse. TTL
+ns1 A 10.0.12.10 TTL 
+ns2 A 10.0.13.10 TTL 
+sp.bacalhau. A 10.0.27.10 TTL
+ss1.bacalhau. A 10.0.28.11 TTL
+ss2.bacalhau. A 10.0.26.12 TTL
+sp.robalo. A 10.0.16.11 TTL
+ss1.robalo. A 10.0.14.10 TTL
+ss2.robalo. A 10.0.24.12 TTL
+sp.reverse. A 10.0.20.10 TTL
+

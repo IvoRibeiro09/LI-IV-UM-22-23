@@ -1,0 +1,13 @@
+﻿@page
+@model BusyPop.Pages.Categorias.ClienteIndexModel
+@{
+}
+<br>
+<h2>Categorias</h2>
+@foreach (var item in Model.list)
+{
+	<a class="button3" href='/Feiras/Selected?id=@item.id'>
+		<br><br><br>
+		@item.category 
+	</a>
+}

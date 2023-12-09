@@ -1,0 +1,6 @@
+bacalhau. DB SP.bacalhau.db
+bacalhau. SS 10.0.28.11
+bacalhau. SS 10.0.26.12
+bacalhau. LG sss
+all LG logs-CC.txt
+root ST 10.0.12.10

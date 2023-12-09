@@ -1,0 +1,6 @@
+arroz.robalo. DB SP.arroz.robalo.db
+arroz.robalo. SS 10.0.17.12
+arroz.robalo. SS 10.0.18.11
+arroz.robalo. LG sss
+all LG logs-CC.txt
+root ST 10.0.12.10

@@ -1,0 +1,41 @@
+﻿@page
+@model BusyPop.Pages.Carrinho.AdminIndexModel
+@{
+}
+
+<body>
+	<br>
+	<h2>Lista de items em carrinhos</h2>
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Nome</th>
+				<th>Id do Vendedor</th>
+				<th>Id do Comprador</th>
+				<th>Quantidade</th>
+				<th>Preço</th>
+				<th>Status</th>
+				<th></th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var item in Model.CarrinhoList)
+			{
+				<tr>
+					<td>@item.id</td>
+					<td>@item.nome</td>
+					<td>@item.idVendedor</td>
+					<td>@item.idComprador</td>
+					<td>@item.quantidade</td>
+					<td>@item.preco</td>
+					<td>@item.status</td>
+					<td>
+						<a class="btn btn-danger btn-sm"  href="/Carrinho/Delete?id=@item.id">Eliminar linha do carrinho</a>	
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</body>

@@ -1,0 +1,41 @@
+﻿@page
+@model BusyPop.Pages.Venda.IndexModel
+@{
+}
+
+<style>
+	.button {
+		border: none;
+		background-color: steelblue;
+		border-radius: 10%;
+		color: white;
+		width: 300px;
+		height: 188px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 22px;
+		margin: 10px 10px;
+		transition-duration: 0.4s;
+		cursor: pointer;
+	}
+	
+	.button:hover{
+		background-color: skyblue;
+		color: white;
+	}
+</style>
+
+
+<br>
+<h2>Produtos desta feira</h2>
+@foreach (var item in Model.ProductList)
+{
+	<a class="button" href='/Compra/Index?id=@item.id'>
+		<p>@item.nome </p>
+		<p><img src="@item.imagelink" width="100" height="90" alt="buttonpng" border="0" /></p>
+			<p>Preço = @item.price €/kg
+		</p>
+		
+	</a>
+}

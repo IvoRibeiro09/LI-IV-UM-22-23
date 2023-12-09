@@ -1,0 +1,7 @@
+robalo. SP 10.0.16.11
+robalo. SS 10.0.14.10
+robalo. SS 10.0.24.12
+robalo. DD 10.0.16.11
+robalo. LG /var/dns/robalo.moc.log
+all LG /var/dns/all.log
+root ST 10.0.12.10

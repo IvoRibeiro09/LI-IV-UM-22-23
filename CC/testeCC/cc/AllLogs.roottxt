@@ -1,0 +1,27 @@
+Data: 17:01:2023.17:36:05:617 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.17:36:13:831 Type:QR IP:10.0.26.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:837 Type:QR IP:10.0.19.11 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:844 Type:RR IP:10.0.19.11 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:36:13:845 Type:RP IP:10.0.26.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:37:52:257 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.17:39:02:252 Type:QR IP:10.0.26.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:41:09:580 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.18:42:55:640 Type:QR IP:10.0.24.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:644 Type:QR IP:10.0.19.11 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:703 Type:RR IP:10.0.19.11 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:42:55:706 Type:RP IP:10.0.24.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:44:26:798 Type:QR IP:10.0.24.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:988 Type:QR IP:10.0.24.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:26:51:031 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.19:28:22:942 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:946 Type:QR IP:10.0.19.11 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:951 Type:RR IP:10.0.19.11 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:22:954 Type:RP IP:10.0.24.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:56:002 Type:QR IP:10.0.24.10 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:29:58:698 Type:QR IP:10.0.24.10 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:36:54:885 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.19:38:12:009 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:015 Type:QR IP:10.0.19.11 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:020 Type:RR IP:10.0.19.11 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:38:12:022 Type:RP IP:10.0.24.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:39:18:252 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;

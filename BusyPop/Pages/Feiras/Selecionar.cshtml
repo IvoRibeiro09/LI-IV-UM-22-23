@@ -1,0 +1,35 @@
+﻿@page
+@model BusyPop.Pages.Feiras.SelecionarModel
+@{
+}
+	<br>
+	<h2>Lista de Feiras</h2>
+	
+	 
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Nome</th>
+				<th>Categoria</th>
+				<th>Numero de Slots</th>
+				<th>Descrição</th>
+				<th>Action</th>
+			</tr>
+		</thead>
+		<tbody>
+		@foreach (var item in Model.FeirasList)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.nome</td>
+				<td>@item.categoryid</td>
+				<td>@item.numSlots</td>
+				<td>@item.descri</td>
+				<td>
+					<a class="btn btn-primary btn-sm" href="/Produtos/Inde?id=@item.id">Selecionar</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

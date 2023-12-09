@@ -1,0 +1,16 @@
+﻿@page
+@model BusyPop.Pages.Venda.IndexModel
+@{
+}
+
+<br>
+<h2>Todos os Produtos</h2>
+@foreach (var item in Model.ProductList)
+{
+	<a class="button3" href='/Compra/Index?id=@item.id'>
+		<p>@item.nome </p>
+		<p><img src="@item.imagelink" width="170" height="130" alt="buttonpng" border="0" /></p>
+			<p>Preço = @item.price €/kg
+		</p>
+	</a>
+}

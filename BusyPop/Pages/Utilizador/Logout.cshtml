@@ -1,0 +1,16 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        SessaoDeUtilizacao.Uname = "";
+        SessaoDeUtilizacao.Utype = "";
+        SessaoDeUtilizacao.Uid = "";
+
+    }
+    catch (Exception e)
+    {
+
+    }
+    Response.Redirect("/Index");
+}

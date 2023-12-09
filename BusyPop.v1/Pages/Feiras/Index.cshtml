@@ -1,0 +1,43 @@
+﻿@page
+@model BusyPop.Pages.Feiras.IndexModel
+@{
+}
+	<br>
+	<h2>Lista de Feiras</h2>
+	@if (SessaoDeUtilizacao.Utype == "1")
+	{
+		<a class='btn btn-primary btn-sn' href='/Feiras/Create'>Nova feira</a>
+	}
+
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Nome</th>
+				<th>Categoria</th>
+				<th>Numero de Slots</th>
+				<th>Descrição</th>
+				<th>Action</th>
+			</tr>
+		</thead>
+		<tbody>
+		@foreach (var item in Model.FeirasList)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.nome</td>
+				<td>@item.categoryid</td>
+				<td>@item.numSlots</td>
+				<td>@item.descri</td>
+				<td>
+					<a class="btn btn-primary btn-sm" href="/ProdutosAdmin/Index?id=@item.id">Selecionar</a>
+					@if(SessaoDeUtilizacao.Utype == "1"){
+					<a class="btn btn-primary btn-sm" href="/Feiras/Edit?id=@item.id">Editar Feira </a>
+					<a class="btn btn-danger btn-sm" href="/Feiras/Delete?id=@item.id">Eliminar Feira</a>
+					}
+				</td>
+			</tr>
+		}
+		</tbody>
+	</table>
+	

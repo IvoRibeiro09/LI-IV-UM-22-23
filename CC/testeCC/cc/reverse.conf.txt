@@ -1,0 +1,5 @@
+reverse DB SP.reverse.db
+reverse DD 127.0.0.1
+in-addr.reverse LG /var/dns/reverse.log
+all LG files/logs-CC.txt
+root ST /var/dns/rootservers.db

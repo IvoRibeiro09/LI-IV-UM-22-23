@@ -1,0 +1,85 @@
+﻿@page
+@model BusyPop.Pages.Compra.NegociarModel
+@{
+}
+<style>
+.button {
+	border: none;
+		background-color: steelblue;
+		border-radius: 10%;
+		color: white;
+		width: 600px;
+		height: 650px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 22px;
+		margin: 10px 10px;
+		transition-duration: 0.4s;
+		cursor: pointer;
+}
+</style>
+
+@if (Model.errorMsg.Length > 0)
+{
+	<div class='alert alert-warming alert-dismissible fade show' role='alert'>
+		<storng>@Model.errorMsg</storng>
+		<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+	</div>
+}
+
+
+<div>
+	<div class="row">
+		<div class="col-6">
+			<a class="button" >
+				<p><img src="@Model.info.imagelink" width="500" height="550" alt="buttonpng" border="0" /></p>
+			</a>
+		</div>
+		<div class="col-6">
+			<h1>@Model.info.nome</h1>
+			<br><br>
+			<p><strong>Descrição:</strong></p>
+			<p>
+				@Model.info.descri
+				<br><br><br><br><br>
+			</p>
+			<p><strong>Quantidade disponivel:</strong></p>
+			<p>
+				@Model.info.quantidade unidades
+			</p>
+			<p><strong>Preço:</strong></p>
+			<p>
+				@Model.info.price €/unidade
+			</p>
+			
+			<form method="POST">
+				<input type="hidden" name="id" value="@Model.info.id" />
+				<input type="hidden" name="quanti" value="@Model.info.quantidade" />
+				
+				<div class="row mb-3">
+					<label class="col-sm 3 col-form-label">Quantidade</label>
+					<div class="col-sm 6">
+						<input type="text" class="form-control" name="quantidade"  />
+					</div>
+				</div>
+				<div class="row mb-3">
+					<label class="col-sm 3 col-form-label">Preço disposto a pagar</label>
+					<div class="col-sm 6">
+						<input type="text" class="form-control" name="preco" value="@Model.info.price" />
+					</div>
+				</div>
+
+
+				<div class="row mb-3">
+					<div class="offset-sm-3 col-sm-3 d-grid">
+						<button type="submit" class="btn btn-primary">Negociar</button>
+					</div>
+					<div class="col-sm 3 d-grid">
+						<a class="btn btn-outline-primary" href="/Produtos/Index" role="button">Cancelar</a>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,35 @@
+﻿@page
+@model BusyPop.Pages.Utilizador.IndexModel
+@{
+}
+<br>
+<h2>Lista de Utilizadores</h2>
+<a class='btn btn-primary btn-sn' href='/Utilizador/Create'>Novo Utilizador</a>
+<table class='table'>
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Categoria</th>
+			<th>Capacidade</th>
+			<th>Descrição</th>
+			<th>Tipo</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in Model.list)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.nome</td>
+				<td>@item.email</td>
+				<td>@item.pass</td>
+				<td>@item.tipo</td>
+				<td class=" ${text eq true ? '@item.tipo' : '3'} ">
+					<a class="btn btn-primary btn-sm"  href="/Utilizador/Edit?id=@item.id">Editar Utilizador</a>
+ 					<a class="btn btn-danger btn-sm" href="/Utilizador/Delete?id=@item.id">Eliminar Categoria</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

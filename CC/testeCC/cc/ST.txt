@@ -1,0 +1,6 @@
+# Base de dados Servidores de Topo
+root DB ST.bd.txt
+root SP 10.0.13.10
+root DD 127.0.0.1
+root LG /var/dns/example-com.log
+all LG /var/dns/all.log

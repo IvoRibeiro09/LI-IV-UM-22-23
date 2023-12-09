@@ -1,0 +1,27 @@
+﻿@page
+@model BusyPop.Pages.Shared.BuscaModel
+@{
+}
+<br>
+<h2>Resultados da sua procura</h2>
+
+@foreach (var item in Model.BuscaList)
+{
+			
+	@if(item.tipo == 1)
+	{
+	<a class="button3" href="/Feiras/Selected?id=@item.id">@item.name</a>
+	}
+	@if (item.tipo == 0)
+	{
+	<a class="button3" href="/Produtos/Selected?id=@item.id">@item.name</a>
+	}
+	@if (item.tipo == 2)
+	{
+		<a class="button3" href="/Compra/Index?id=@item.id">@item.name</a>
+	}
+}
+				
+
+
+

@@ -1,0 +1,57 @@
+﻿@page
+@model BusyPop.Pages.Utilizador.CreateModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="estilos/sign-in.css" />
+    <script src="~/js/scripts.js"></script>
+</head>
+<body class="text-center">
+    <br />
+
+    @if (Model.errorMsg.Length > 0)
+    {
+        <div class='alert alert-warming alert-dismissible fade show' role='alert'>
+            <storng>@Model.errorMsg</storng>
+            <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+        </div>
+    }
+    <div class="container">
+        <div class="row">
+            <div class="col-3">
+            </div>
+            <div class="col-6">
+                <main>
+                    <form method="POST">
+                        <img class="mb-4 rounded-3" src="/logo.png" alt="" width="200" height="200">
+                        <h1 class="h3 mb-3 fw-normal">Registo</h1>
+                        <div class="form-floating">
+                            <input type="text" class="form-control" id="floatingInput" name="name">
+                            <label for="floatingInput">Nome</label>
+
+                        </div>
+
+                        <div class="form-floating mb-4 mt-3">
+                            <input type="text" class="form-control" id="floatingInput" name="email" >
+                            <label for="floatingInput">Email</label>
+
+                        </div>
+                        <div class="form-floating mb-4 mt-3">
+                            <input type="text" class="form-control" id="floatingPassword" name="pass">
+                            <label for="floatingPassword">Password</label>
+
+                        </div>
+                        <button onclick="mostra('conteudo')" class="w-50 btn btn-lg btn-primary" type="submit">Registar</button>
+
+                    </form>
+
+                </main>
+            </div>
+            <div class="col-3">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

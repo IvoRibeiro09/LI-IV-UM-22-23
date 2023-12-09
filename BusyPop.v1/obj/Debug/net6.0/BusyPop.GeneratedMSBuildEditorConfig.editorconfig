@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BusyPop
+build_property.RootNamespace = BusyPop
+build_property.ProjectDir = C:\Users\HP\OneDrive - Universidade do Minho\Ambiente de Trabalho\LI 4\vsBusyPop\BusyPop\BusyPop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\OneDrive - Universidade do Minho\Ambiente de Trabalho\LI 4\vsBusyPop\BusyPop\BusyPop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/AceitarProposta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cQWNlaXRhclByb3Bvc3RhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/CancelarProposta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cQ2FuY2VsYXJQcm9wb3N0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/FinalizarCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cRmluYWxpemFyQ29tcHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Carrinho/Negociados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9cTmVnb2NpYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/ClienteIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDbGllbnRlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Compra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcHJhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Compra/Negociar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcHJhXE5lZ29jaWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/ClienteIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXENsaWVudGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Feiras/Selected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVpcmFzXFNlbGVjdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/ProdutosAdmin/AdicionarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NBZG1pblxBZGljaW9uYXJQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/ProdutosAdmin/DeleteProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NBZG1pblxEZWxldGVQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/ProdutosAdmin/EditProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NBZG1pblxFZGl0UHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/ProdutosAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NBZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Produtos/Selected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcU2VsZWN0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Shared/Busca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEJ1c2NhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxMb2dpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Utilizador/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl6YWRvclxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive - Universidade do Minho/Ambiente de Trabalho/LI 4/vsBusyPop/BusyPop/BusyPop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dnbhk42952

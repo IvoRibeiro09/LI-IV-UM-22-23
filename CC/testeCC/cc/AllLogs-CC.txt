@@ -1,0 +1,269 @@
+Data: 29:12:2022.17:51:17:082 Type:FL IP:SP erro:!!!!Erro na leitura do ficheiro de configuraçao do Servidor Primario!!!!
+Data: 29:12:2022.17:52:16:652 Type:FL IP:SR erro:!!!!Erro na leitura do ficheiro de configuraçao do Servidor Primario!!!!
+Data: 29:12:2022.20:11:09:646 Type:FL IP:Sp erro:!!!!Erro na leitura do ficheiro de configuraçao do Servidor Primario!!!!
+Data: 29:12:2022.20:13:47:005 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.00:59:47:905 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:06:26:777 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:08:39:113 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:16:49:143 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:20:45:971 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:21:50:268 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:22:34:683 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:25:44:818 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:26:34:370 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:27:37:934 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:29:53:979 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:30:18:974 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:32:43:879 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:34:04:315 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:36:45:414 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:40:37:486 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:43:25:672 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:44:47:729 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:50:07:091 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:55:44:651 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:55:53:732 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:57:36:960 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:58:02:931 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.01:58:14:649 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:07:23:226 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:10:08:764 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:14:27:583 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:25:27:561 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:27:31:183 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.02:32:44:959 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.02:33:31:967 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.03:05:27:905 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.03:05:49:213 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.03:05:59:991 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.03:14:47:823 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.12:09:26:508 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.12:10:42:567 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.12:10:58:999 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.12:23:01:332 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.12:23:15:314 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.12:54:02:969 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.12:54:18:521 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.12:58:31:988 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.13:02:41:733 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.13:08:13:685 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.13:10:07:230 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.15:53:41:200 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.15:54:26:523 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.15:54:43:515 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:00:29:174 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:03:30:076 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:05:27:892 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.16:11:14:369 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:12:02:430 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.16:12:21:158 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:25:53:715 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:31:44:477 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:33:06:834 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:35:06:955 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:36:22:251 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:37:49:348 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.16:39:33:571 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:16:48:466 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:18:24:129 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.17:18:52:223 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:21:49:183 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:23:28:720 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:26:07:060 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:37:51:430 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:40:15:283 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:40:38:535 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.17:40:51:355 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:43:02:952 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:43:23:090 Type:EV @ db-file-read on:robalo.db.
+Data: 30:12:2022.17:43:36:412 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:49:06:814 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:52:45:611 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.17:53:20:584 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:30:57:623 Type:FL IP:bd.txt. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:44:35:667 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.18:45:03:315 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:47:45:252 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:48:17:496 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.18:51:35:690 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:51:47:863 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.18:55:09:792 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:58:45:720 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.18:58:57:614 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:03:19:672 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:03:44:209 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:08:46:376 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:08:56:720 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:14:04:150 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:14:37:615 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:16:30:983 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:21:58:263 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:22:32:884 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:24:58:323 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:25:56:356 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:28:32:804 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:29:03:340 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:31:19:385 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 30:12:2022.19:32:03:750 Type:EV @ db-file-read on:reverse.
+Data: 30:12:2022.19:32:32:611 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.16:59:45:725 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:00:01:499 Type:EV @ db-file-read on:reverse.
+Data: 31:12:2022.17:02:40:568 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:10:55:293 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:11:35:047 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:13:00:483 Type:EV @ db-file-read on:reverse.
+Data: 31:12:2022.17:23:13:612 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:23:30:901 Type:EV @ db-file-read on:reverse.
+Data: 31:12:2022.17:30:03:277 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:30:41:522 Type:EV @ db-file-read on:reverse.
+Data: 31:12:2022.17:34:45:917 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:35:20:486 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:35:39:386 Type:EV @ db-file-read on:robalo.
+Data: 31:12:2022.17:40:23:987 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 31:12:2022.17:40:44:323 Type:EV @ db-file-read on:robalo.
+Data: 17:01:2023.17:33:05:851 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.17:33:05:860 Type:EV @ log-file-create name: AllLogs.robalo.txt
+Data: 17:01:2023.17:33:16:551 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.17:33:16:563 Type:EV @ log-file-create name: AllLogs.txt
+Data: 17:01:2023.17:33:42:264 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:279 Type:EV @ log-file-create name: AllLogs.nulltxt
+Data: 17:01:2023.17:33:42:280 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:281 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:281 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:282 Type:EV @ log-file-create name: AllLogs.bacalhau.txt
+Data: 17:01:2023.17:33:42:282 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:283 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:283 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:35:43:011 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:35:43:026 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.17:36:05:601 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.17:36:05:616 Type:EV @ log-file-create name: AllLogs.roottxt
+Data: 17:01:2023.17:36:05:663 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.17:36:05:663 Type:EV @ log-file-create name: AllLogs..txt
+Data: 17:01:2023.17:36:13:825 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:831 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:831 Type:QR IP:10.0.26.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:837 Type:QR IP:10.0.19.11 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:843 Type:RR IP:10.0.19.11 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:36:13:844 Type:RP IP:10.0.12.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:844 Type:EV @ log-file-create name: AllLogs.arroz.robalo.txt
+Data: 17:01:2023.17:36:13:845 Type:RP IP:10.0.26.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:36:13:845 Type:RP IP:10.0.28.20 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:37:52:239 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.17:37:52:316 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.17:38:05:988 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.17:38:23:860 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.17:38:38:528 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:543 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:544 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:544 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:545 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:545 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:546 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:39:02:200 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:39:02:251 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:39:02:251 Type:QR IP:10.0.26.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:41:09:565 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.18:41:09:624 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.18:41:24:620 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:636 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:636 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:637 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:637 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:638 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:638 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:48:395 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.18:42:17:307 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.18:42:55:634 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:639 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:639 Type:QR IP:10.0.24.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:644 Type:QR IP:10.0.19.11 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:649 Type:RR IP:10.0.19.11 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:42:55:650 Type:RP IP:10.0.12.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:705 Type:RP IP:10.0.24.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:42:55:709 Type:RP IP:10.0.28.20 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:44:26:795 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:798 Type:QR IP:10.0.24.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:798 Type:QE IP:10.0.12.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:813 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:823 Type:QE IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:823 Type:RP IP:10.0.24.10 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:824 Type:RR IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:825 Type:RP IP:10.0.28.20 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:984 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:987 Type:QE IP:10.0.12.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:987 Type:QR IP:10.0.24.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:992 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:994 Type:QE IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:995 Type:RP IP:10.0.24.10 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:995 Type:RR IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:996 Type:RP IP:10.0.28.20 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:50:37:844 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;robalo.,MX
+Data: 17:01:2023.18:50:37:848 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;robalo.,MX
+Data: 17:01:2023.18:50:37:850 Type:RR IP:10.0.16.11 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.18:50:37:852 Type:RP IP:10.0.24.10 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.18:50:37:852 Type:RP IP:10.0.28.20 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:26:51:014 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.19:26:51:086 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.19:27:02:261 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:281 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:281 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:282 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:283 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:283 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:284 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:24:462 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.19:27:34:305 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.19:28:22:936 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:941 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:941 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:946 Type:QR IP:10.0.19.11 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:950 Type:RR IP:10.0.19.11 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:22:951 Type:RP IP:10.0.12.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:953 Type:RP IP:10.0.24.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:22:954 Type:RP IP:10.0.28.20 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:55:993 Type:QR IP:10.0.28.20 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:28:56:002 Type:QE IP:10.0.12.10 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:28:56:002 Type:QR IP:10.0.24.10 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:28:56:004 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;batatas.,;
+Data: 17:01:2023.19:29:58:694 Type:QR IP:10.0.28.20 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:29:58:697 Type:QE IP:10.0.12.10 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:29:58:697 Type:QR IP:10.0.24.10 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:29:58:700 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;abatatas.,;
+Data: 17:01:2023.19:30:29:132 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:30:29:136 Type:QE IP:10.0.16.11 Data:1234,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:30:29:139 Type:RR IP:10.0.16.11 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:30:29:139 Type:RP IP:10.0.24.10 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.19:30:29:141 Type:RP IP:10.0.28.20 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:33:42:234 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batats.cebolas.;MX
+Data: 17:01:2023.19:33:42:243 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.19:34:14:526 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batatas.cebolas.,MX;
+Data: 17:01:2023.19:34:14:529 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.19:36:54:866 Type:EV @ conf-file-read name: ST.txt
+Data: 17:01:2023.19:36:54:947 Type:FL IP:bd. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.19:37:07:717 Type:FL IP:arroz.robalo. erro:!!!!Erro no parse do ficheiro de Base de Dados!!!!
+Data: 17:01:2023.19:37:25:182 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.19:37:34:906 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:931 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:932 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:933 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:933 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:934 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:935 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:38:11:996 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:009 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:009 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:015 Type:QR IP:10.0.19.11 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:020 Type:RR IP:10.0.19.11 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:38:12:021 Type:RP IP:10.0.12.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:021 Type:RP IP:10.0.24.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:38:12:023 Type:RP IP:10.0.28.20 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:38:42:587 Type:QR IP:10.0.28.20 Data:12345,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:38:42:589 Type:QE IP:10.0.16.11 Data:12345,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:38:42:591 Type:RR IP:10.0.16.11 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:38:42:592 Type:RP IP:10.0.24.10 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.19:38:42:594 Type:RP IP:10.0.28.20 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:39:18:198 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;
+Data: 17:01:2023.19:39:18:252 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;
+Data: 17:01:2023.19:39:18:252 Type:QR IP:10.0.24.10 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;
+Data: 17:01:2023.19:39:18:254 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;cabolas.,;

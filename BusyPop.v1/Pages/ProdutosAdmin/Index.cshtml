@@ -1,0 +1,46 @@
+﻿@page
+@model BusyPop.Pages.ProdutosAdmin.IndexModel
+@{
+}
+
+<br>
+<h2>Lista de Produtos</h2>
+@if (SessaoDeUtilizacao.Utype == "2")
+{
+	<a class='btn btn-primary btn-sn' href='/ProdutosAdmin/AdicionarProduto'>Adicionar Produto</a>
+}
+<table class='table'>
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Nome</th>
+			<th>Quantidade(Kg)</th>
+			<th>Preço p/kilo</th>
+			<th>Stand do Produto</th>
+			<th>Descrição</th>
+			@if(SessaoDeUtilizacao.Utype == "2"){
+			<th></th>
+			}
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.ProductList)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.nome</td>
+				<td>@item.quantidade</td>
+				<td>@item.price</td>
+				<td>@item.standId</td>
+				<td>@item.descri</td>
+				@if (SessaoDeUtilizacao.Utype == "2")
+				{
+					<td>
+					<a class="btn btn-primary btn-sm" href="/ProdutosAdmin/EditProduto?id=@item.id">Editar Produto</a>
+					<a class="btn btn-danger btn-sm" href="/ProdutosAdmin/DeleteProduto?id=@item.id">Eliminar Produto</a>
+					</td>
+				}
+			</tr>
+		}
+	</tbody>
+</table>

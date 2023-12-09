@@ -1,0 +1,66 @@
+Data: 17:01:2023.17:33:05:860 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.17:38:05:996 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.18:41:24:637 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:637 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:638 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:41:24:638 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.18:42:17:314 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.18:42:55:634 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:639 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:710 Type:RP IP:10.0.28.20 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.18:44:26:796 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:799 Type:QE IP:10.0.12.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:819 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:823 Type:QE IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:824 Type:RR IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:44:26:825 Type:RP IP:10.0.28.20 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:985 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:988 Type:QE IP:10.0.12.10 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:993 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:995 Type:QE IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:995 Type:RR IP:10.0.19.11 Data:3874,Q,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:996 Type:RP IP:10.0.28.20 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:50:37:845 Type:QR IP:10.0.28.20 Data:3874,Q,0,0,0,0;robalo.,MX
+Data: 17:01:2023.18:50:37:849 Type:QE IP:10.0.16.11 Data:3874,Q,0,0,0,0;robalo.,MX
+Data: 17:01:2023.18:50:37:851 Type:RR IP:10.0.16.11 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.18:50:37:852 Type:RP IP:10.0.24.10 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.18:50:37:852 Type:RP IP:10.0.28.20 Data:3874,RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:27:02:282 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:283 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:283 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:02:284 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:27:24:471 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.19:28:22:936 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:941 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:955 Type:RP IP:10.0.28.20 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:28:56:001 Type:QR IP:10.0.28.20 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:28:56:002 Type:QE IP:10.0.12.10 Data:12345,Q+R,0,0,0,0;batatas.,NS;
+Data: 17:01:2023.19:28:56:005 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;batatas.,;
+Data: 17:01:2023.19:29:58:695 Type:QR IP:10.0.28.20 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:29:58:698 Type:QE IP:10.0.12.10 Data:1234,Q,0,0,0,0;abatatas.,MX;
+Data: 17:01:2023.19:29:58:701 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;abatatas.,;
+Data: 17:01:2023.19:30:29:133 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:30:29:137 Type:QE IP:10.0.16.11 Data:1234,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:30:29:139 Type:RR IP:10.0.16.11 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:30:29:140 Type:RP IP:10.0.24.10 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.19:30:29:141 Type:RP IP:10.0.28.20 Data:1234,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:33:42:235 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batats.cebolas.;MX
+Data: 17:01:2023.19:33:42:244 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.19:34:14:526 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batatas.cebolas.,MX;
+Data: 17:01:2023.19:34:14:530 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.19:37:25:243 Type:EV @ db-file-read name: robalo.
+Data: 17:01:2023.19:37:34:933 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:934 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:934 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:37:34:935 Type:EV @ conf-file-read name: SR.robalo.txt
+Data: 17:01:2023.19:38:12:004 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:009 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:024 Type:RP IP:10.0.28.20 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;/ 
+Data: 17:01:2023.19:38:42:587 Type:QR IP:10.0.28.20 Data:12345,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:38:42:589 Type:QE IP:10.0.16.11 Data:12345,Q+R,0,0,0,0;robalo.,MX;
+Data: 17:01:2023.19:38:42:591 Type:RR IP:10.0.16.11 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:38:42:593 Type:RP IP:10.0.24.10 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;
+Data: 17:01:2023.19:38:42:595 Type:RP IP:10.0.28.20 Data:12345,R+RA,0,2,3,5;robalo.,MX;robalo. MX mx2.robalo. 86400 20,robalo. MX mx1.robalo. 86400 10;robalo. NS ns2.robalo. 86400,robalo. NS ns1.robalo. 86400,robalo. NS ns3.robalo. 86400;mx2.robalo. A 193.136.130.201 86400,mx1.robalo. A 193.136.130.200 86400,ns2.robalo. A 193.137.100.250 86400,ns1.robalo. A 10.0.16.11 86400,ns3.robalo. A 193.136.130.251 86400;/ 
+Data: 17:01:2023.19:39:18:251 Type:QR IP:10.0.28.20 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;
+Data: 17:01:2023.19:39:18:252 Type:QE IP:10.0.12.10 Data:1234,Q+R,0,0,0,0;batatas.cabolas.,MX;
+Data: 17:01:2023.19:39:18:254 Type:RP IP:10.0.28.20 Data:,,3,0,0,0;cabolas.,;

@@ -1,0 +1,7 @@
+bacalhau. SP 10.0.27.11
+bacalhau. SS 10.0.28.11
+bacalhau. SS 10.0.26.12
+bacalhau. DD 10.0.27.11
+bacalhau. LG /var/dns/bacalhau.log
+all LG /var/dns/all.log
+root ST 10.0.12.10

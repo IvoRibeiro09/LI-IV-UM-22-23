@@ -1,0 +1,15 @@
+Data: 17:01:2023.17:33:42:282 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:282 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:283 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:33:42:284 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:35:43:011 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:35:43:026 Type:RP IP:10.0.28.20 Data:
+Data: 17:01:2023.17:36:13:826 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:831 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:36:13:846 Type:RP IP:10.0.28.20 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;/ 
+Data: 17:01:2023.17:38:38:544 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:545 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:546 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:38:38:546 Type:EV @ conf-file-read name: SR.bacalhau.txt
+Data: 17:01:2023.17:39:02:246 Type:QR IP:10.0.28.20 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.17:39:02:251 Type:QE IP:10.0.12.10 Data:3874,Q+R,0,0,0,0;arroz.robalo.,NS;

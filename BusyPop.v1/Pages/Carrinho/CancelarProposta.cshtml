@@ -1,0 +1,59 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        String id = Request.Query["id"];
+        String nome = Request.Query["nome"];
+        String q = Request.Query["quantidade"];
+        int quanti = Convert.ToInt32(q);
+        int quanti2 = 0;
+
+
+        String conn = DataBaseSession.DataBaseString;
+
+        using (SqlConnection connection = new SqlConnection(conn))
+        {
+            connection.Open();
+            String SQL = "UPDATE Carrinho "+
+                         "SET statu=@statu "+
+                         "WHERE id=@id";
+
+            using (SqlCommand command = new SqlCommand(SQL, connection))
+            {
+                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@statu", "4");
+
+                command.ExecuteNonQuery();
+            }
+            String SQL2 = "SELECT * FROM Produtos " +
+                          "WHERE nome=@nome";
+            using (SqlCommand command = new SqlCommand(SQL2, connection))
+            {
+                command.Parameters.AddWithValue("@nome", nome);
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        quanti2 = reader.GetInt32(2);
+                    }
+                }
+            }
+            String SQL3 = "UPDATE Produtos " +
+                          "SET quantidade=@quantidade " +
+                          "WHERE nome=@nome";
+            using (SqlCommand command = new SqlCommand(SQL3, connection))
+            {
+                command.Parameters.AddWithValue("@nome", nome);
+                command.Parameters.AddWithValue("@quantidade", quanti+quanti2);
+
+                command.ExecuteNonQuery();
+            }
+        }
+        Response.Redirect("/Carrinho/Negociados");
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine("Exception: " + e.ToString());
+    }
+}

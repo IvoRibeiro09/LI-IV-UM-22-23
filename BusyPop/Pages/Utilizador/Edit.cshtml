@@ -1,0 +1,62 @@
+﻿@page
+@model BusyPop.Pages.Utilizador.EditModel
+@{
+}
+
+
+<br />
+<h2>Editar Utilizador</h2>
+
+@if (Model.errorMsg.Length > 0)
+{
+	<div class='alert alert-warming alert-dismissible fade show' role='alert'>
+		<storng>@Model.errorMsg</storng>
+		<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+	</div>
+}
+
+<form method="POST">
+
+	<input type="hidden" name="id" value="@Model.info.id" />
+
+	<div class="row mb-3">
+		<label class="col-sm 3 col-form-label">Novo nome</label>
+		<div class="col-sm 6">
+			<input type="text" class="form-control" name="nome" value="@Model.info.nome" />
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm 3 col-form-label">Novo Email</label>
+		<div class="col-sm 6">
+			<input type="text" class="form-control" name="email" value="@Model.info.email" />
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm 3 col-form-label">Nova Password</label>
+		<div class="col-sm 6">
+			<input type="text" class="form-control" name="pass" value="@Model.info.pass" />
+		</div>
+	</div>
+
+	@if (Model.sucessMsg.Length > 0)
+	{
+		<div class="row mb-3">
+			<div class="col-sm-9">
+				<div class='alert alert-success alertalert-dismissible fade show' role='alert'>
+					<strong>@Model.sucessMsg</strong>
+					<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+				</div>
+			</div>
+		</div>
+	}
+
+
+	<div class="row mb-3">
+		<div class="offset-sm-3 col-sm-3 d-grid">
+			<button type="submit" class="btn btn-primary">Alterar</button>
+		</div>
+		<div class="col-sm 3 d-grid">
+			<a class="btn btn-outline-primary" href="/Utilizador/Index" role="button">Cancelar</a>
+		</div>
+	</div>
+</form>

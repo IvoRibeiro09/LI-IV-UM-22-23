@@ -1,0 +1,71 @@
+﻿@page
+@model BusyPop.Pages.Compra.IndexModel
+@{
+}
+
+
+@if (Model.errorMsg.Length > 0)
+{
+	<div class='alert alert-warming alert-dismissible fade show' role='alert'>
+		<storng>@Model.errorMsg</storng>
+		<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+	</div>
+}
+
+
+<div>
+	<div class="row">
+		<div class="col-6">
+			<a class="button2">
+				<p><img class="img" src="@Model.info.imagelink" alt="buttonpng" border="0" /></p>
+			</a>
+		</div>
+		<div class="col-6">
+			<h1>@Model.info.nome</h1>
+			<br><br>
+			<p><strong>Descrição:</strong></p>
+			<p>
+				@Model.info.descri
+				<br><br><br><br><br>
+			</p>
+			<p><strong>Quantidade disponivel:</strong></p>
+			<p>
+				@Model.info.quantidade unidades
+			</p>
+			<p><strong>Preço:</strong></p>
+			<p>
+				@Model.info.price €/unidade
+			</p>
+
+			<form method="POST">
+				<input type="hidden" name="id" value="@Model.info.id" />
+				<input type="hidden" name="nome1" value="@Model.info.nome" />
+				<input type="hidden" name="quanti" value="@Model.info.quantidade" />
+				<input type="hidden" name="preco1" value="@Model.info.price" />
+				<input type="hidden" name="Vendedor" value="@Model.info.idVendedor" />
+
+				<div class="row mb-3">
+					<label class="col-sm 3 col-form-label">Quantidade</label>
+					<div class="col-sm 6">
+						<input type="text" class="form-control" name="quantidade" />
+					</div>
+				</div>
+
+				<div class="row mb-3">
+					<div class="offset-sm-3 col-sm-3 d-grid">
+						<button type="submit" class="btn btn-primary">Adicionar ao Carrinho</button>
+					</div>
+					<div class="col-sm 3 d-grid">
+						<a class="btn btn-outline-primary" href="/Produtos/Index" role="button">Cancelar</a>
+					</div>
+				</div>
+			</form>
+			<div class="row mb-3">
+				
+				<div class="col-sm 3 d-grid">
+					<a class="btn btn-primary" href="/Compra/Negociar?id=@Model.info.id" role="button">Negociar</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

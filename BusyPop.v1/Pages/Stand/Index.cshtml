@@ -1,0 +1,37 @@
+﻿@page
+@model BusyPop.Pages.Stand.IndexModel
+@{
+}
+	<br>
+	<h2>Lista de Stands</h2>
+	@if (SessaoDeUtilizacao.Utype == "2")
+	{
+	<a class='btn btn-primary btn-sn' href='/Stand/Create'>Novo Stand</a>
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Nome</th>
+				<th>Feira</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model.StandInfos)
+			{
+				<tr>
+					<td>@item.id</td>
+					<td>@item.nome</td>
+					<td>@item.feiraid</td>
+					<td>
+						<a class="btn btn-primary btn-sm" href="/Stand/Index?id=@item.id">Selecionar</a>
+						<a class="btn btn-danger btn-sm" href="/Stand/Delete?id=@item.id">Eliminar Stand</a>
+
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	}
+
+

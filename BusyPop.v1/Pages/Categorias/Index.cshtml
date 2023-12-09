@@ -1,0 +1,43 @@
+﻿@page
+@model BusyPop.Pages.Categorias.IndexModel
+@{
+}
+
+<body>
+	<br>
+	<h2>Lista de categorias</h2>
+	@if (SessaoDeUtilizacao.Utype == "1") { 
+		<a class="btn btn-primary btn-sm" href="/Categorias/Create">Nova Categoria</a>
+	}
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Categoria</th>
+				<th>Capacidade</th>
+				<th>Descrição</th>
+				<th></th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var item in Model.list)
+			{
+				<tr>
+					<td>@item.id</td>
+					<td>@item.category</td>
+					<td>@item.capacity</td>
+					<td>@item.description</td>
+					<td>
+						<a class="btn btn-primary btn-sm" href="/Feiras/Index?id=@item.id">Selecionar</a>
+						@if (SessaoDeUtilizacao.Utype == "1")
+						{
+							<a class="btn btn-primary btn-sm" href="/Categorias/Edit?id=@item.id">Editar Categoria</a>
+							<a class="btn btn-danger btn-sm"  href="/Categorias/Delete?id=@item.id">Eliminar Categoria</a>
+						}
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</body>

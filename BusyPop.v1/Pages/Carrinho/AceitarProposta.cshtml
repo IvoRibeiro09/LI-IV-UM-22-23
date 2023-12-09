@@ -1,0 +1,31 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        String id = Request.Query["id"];
+
+        String conn = DataBaseSession.DataBaseString;
+
+        using (SqlConnection connection = new SqlConnection(conn))
+        {
+            connection.Open();
+            String SQL = "UPDATE Carrinho "+
+                         "SET statu=@statu "+
+                         "WHERE id=@id";
+
+            using (SqlCommand command = new SqlCommand(SQL, connection))
+            {
+                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@statu", "0");
+
+                command.ExecuteNonQuery();
+            }
+        }
+        Response.Redirect("/Carrinho/Negociados");
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine("Exception: " + e.ToString());
+    }
+}

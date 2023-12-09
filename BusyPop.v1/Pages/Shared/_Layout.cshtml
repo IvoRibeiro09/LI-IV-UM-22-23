@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BusyPop</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BusyPop.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-red border-bottom box-shadow mb-3">
+            <div class="container">
+                <img class="mb-4 rounded-3" align="left" src="/logo.png" alt="" width="60" height="60" >
+                <a class="navbar-brand" asp-area="" asp-page="/Categorias/ClienteIndex"> BusyPop</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if(@SessaoDeUtilizacao.Utype != "1" && SessaoDeUtilizacao.Utype != "2"){
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Categorias/ClienteIndex">Categorias</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Feiras/ClienteIndex">Feiras</a>
+                        </li>
+                        <li class="nav-item">
+                             <a class="nav-link text-dark" asp-area="" asp-page="/Produtos/Index">Produtos</a>
+                        </li>
+                        }
+                        @if (@SessaoDeUtilizacao.Utype == "1")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Categorias/Index">Categorias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Feiras/Index">Feiras</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/ProdutosAdmin/Index">Produtos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Utilizador/Index">Utilizadores</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Carrinho/AdminIndex">Compras</a>
+                            </li>
+                        }
+                        @if(SessaoDeUtilizacao.Utype == "2")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/ProdutosAdmin/Index">Meus Produtos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Stand/Index">Meus Stands</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <form class="nav-link text-dark" action="/Shared/Busca">
+                                <input type="text" id="fname" name="fname" value="">
+                                <input type="submit" value="Procurar">
+                            </form>
+                        </li>
+                        <li class="nav-item">
+                            @if(@SessaoDeUtilizacao.Utype == "3" ||@SessaoDeUtilizacao.Utype == "2" ||@SessaoDeUtilizacao.Utype == "1"){
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Utilizador/LoginPage">Olá @SessaoDeUtilizacao.Uname !</a>
+                            }else{
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Utilizador/LoginPage">Login</a>
+                            }
+                        </li>
+                        @if(@SessaoDeUtilizacao.Utype == "3" ||@SessaoDeUtilizacao.Utype == "2" ||@SessaoDeUtilizacao.Utype == "1"){
+                        <li class="nav-item">
+                            <a class="nav-link text-red" asp-area="" asp-page="/Utilizador/Logout">Logout</a>
+                                @if (@SessaoDeUtilizacao.Utype == "3" )
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Carrinho/Negociados">Carrinho</a>
+                                }
+                                @if (@SessaoDeUtilizacao.Utype == "2" )
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Carrinho/Negociados">Propostas</a>
+                                }
+                        </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - BusyPop - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

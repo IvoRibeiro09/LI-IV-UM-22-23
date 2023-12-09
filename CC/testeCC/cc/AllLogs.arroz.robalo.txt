@@ -1,0 +1,6 @@
+Data: 17:01:2023.17:36:13:845 Type:RP IP:10.0.12.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:42:55:703 Type:RP IP:10.0.12.10 Data:3874,R+RA,2,0,0,0;arroz.robalo.,NS;
+Data: 17:01:2023.18:44:26:824 Type:RP IP:10.0.24.10 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.18:46:07:995 Type:RP IP:10.0.24.10 Data:3874,RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:28:22:952 Type:RP IP:10.0.12.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;
+Data: 17:01:2023.19:38:12:021 Type:RP IP:10.0.12.10 Data:1234,R+RA,2,0,0,0;arroz.robalo.,MX;

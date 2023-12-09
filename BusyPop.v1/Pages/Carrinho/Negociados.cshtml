@@ -1,0 +1,89 @@
+﻿@page
+@model BusyPop.Pages.Carrinho.NegociadosModel
+@{
+}
+
+<body>
+	<br><br />
+	@if(SessaoDeUtilizacao.Utype != "2")
+	{
+	<h2>Carrinho</h2>
+	<table class='table'>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Nome</th>
+				<th>Quantidade</th>
+				<th>Preço por unidade</th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var item in Model.CarrinhoList)
+			{
+				<tr>
+					<td>
+						<a class="btn btn-danger" href="/Carrinho/CancelarProposta?id=@item.id&nome=@item.nome&quantidade=@item.quantidade">X</a>
+					</td>
+					<td>@item.nome</td>
+					<td>@item.quantidade</td>
+					<td>@item.preco</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<a class="btn btn-primary" href="/Carrinho/FinalizarCompra?id=@SessaoDeUtilizacao.Uid">Finalizar a Compra</a>
+	<br><br />
+	<br><br />
+	<h3>Prudutos à espera de resposta do Vendedor</h3>
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Quantidade</th>
+				<th>Preço por unidade</th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var item1 in Model.Espera)
+			{
+				<tr>
+					<td>@item1.nome</td>
+					<td>@item1.quantidade</td>
+					<td>@item1.preco</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<br />
+	}
+	else
+	{
+	<h3>Propostas feitas por clientes</h3>
+	<table class='table'>
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Quantidade</th>
+				<th>Preço por unidade</th> 
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item3 in Model.Espera)
+			{
+				<tr>
+					<td>@item3.nome</td>
+					<td>@item3.quantidade</td>
+					<td>@item3.preco</td>
+					<td>
+						<a class="btn btn-primary btn-sm" href="/Carrinho/AceitarProposta?id=@item3.id">Aceitar</a>
+						<a class="btn btn-danger btn-sm" href="/Carrinho/CancelarProposta?id=@item3.id&nome=@item3.nome&quantidade=@item3.quantidade">Rejeitar</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	}
+</body>
